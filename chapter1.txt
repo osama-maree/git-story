@@ -4,3 +4,8 @@ git commit -m "Chapter 1: Introduce Git from Init village"
 added some changes
 
 added again
+
+vbnetCopy code
+Git was eager to explore new places.
+
+gi
