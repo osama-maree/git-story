@@ -1,2 +1,2 @@
-Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
+Once upon a time, in a town named "Init", lived an enthusiastic explorer.
 git commit -m "Chapter 1: Introduce Git from Init village"
